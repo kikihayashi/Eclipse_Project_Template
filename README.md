@@ -1,3 +1,5 @@
+Servers環境：apache-tomcat-8.5.56
+
 Web_template.war：和Dynamic Web Project相同，只差在WebContent/WEB-INF/lib有放taglibs-standard-impl-1.2.5.jar & taglibs-standard-spec-1.2.5.jar
 這樣jsp可以使用Standard Tag寫法
 
