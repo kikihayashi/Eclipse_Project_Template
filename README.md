@@ -15,7 +15,7 @@ Maven_template.zip：
 
 錯誤處理：
 ---
-如果Import Web_template.war專案以後，出現 \
+如果Impor專案以後，出現 \
 404:The origin server did not find a current representation for the target resource or is not willing to disclose that one exists. \
 專案>Property>Project Referances 勾選之前Tomcat設置好的"Servers"專案 \
 專案>Property>Project Facet Dynamic Web Module 3.1、Java 1.8、JavaScript 1.0 \
